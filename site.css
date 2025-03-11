@@ -1,0 +1,36 @@
+header{
+    top: 0;
+    display: flex;
+    position: fixed;
+    height: 50px;
+}
+
+.this-site{
+    display: flex;
+}
+
+
+.main-menu{
+    background-color: bisque;
+    display: flex;
+    padding-right: 0px;
+    margin: 0 0 0 1130;
+}
+
+.main-content{
+    margin-top: 170px;
+
+}
+
+.sns-link{
+    width: 70px;
+}
+
+article#main-article{
+    margin-bottom: 520px;
+}
+
+li#circle-logo{
+    list-style: none;
+}
+
