@@ -14,7 +14,7 @@ header{
     background-color: bisque;
     display: flex;
     padding-right: 0px;
-    margin: 0 0 0 1130;
+    margin-left:100px;
 }
 
 .main-content{
