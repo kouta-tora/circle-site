@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header{
     top: 0;
     display: flex;
@@ -39,3 +40,40 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+=======
+header{
+    top: 0;
+    display: flex;
+    position: fixed;
+    height: 50px;
+}
+
+.this-site{
+    display: flex;
+}
+
+
+.main-menu{
+    background-color: bisque;
+    display: flex;
+    padding-right: 0px;
+    margin-left:1130px;
+}
+
+.main-content{
+    margin-top: 170px;
+
+}
+
+.sns-link{
+    width: 70px;
+}
+
+article#main-article{
+    margin-bottom: 520px;
+}
+
+li#circle-logo{
+    list-style: none;
+}
+>>>>>>> origin/main
