@@ -1,21 +1,40 @@
-
-header{
-    top: 0;
-    display: flex;
+.flout-menu{
+    margin: 0px;
     position: fixed;
-    height: 50px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 60px;
+    background-color: beige;
 }
 
-.this-site{
+p#tpcs{
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+
+.flex-menu{
     display: flex;
 }
 
+div#menu{
+    height: 60px;
+}
 
-.main-menu{
-    background-color: bisque;
+.right-menu{
+    margin-top: 0px;
     display: flex;
-    padding-right: 0px;
-    margin: 0 0 0 1130;
+    width: 953px;
+    justify-content: space-between;
+    margin-left: auto;
+    padding: 10px;
+}
+
+
+
+hr#border{
+    margin-top: 0px;
 }
 
 .main-content{
@@ -36,7 +55,18 @@ li#circle-logo{
 }
 
 body{
-    background-image: url(images/background_img.png);
+    margin: 0px;
+    background-image: url(images/Untitled\ design.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+}
+
+button#info-button{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
 }

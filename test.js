@@ -1,4 +1,5 @@
 const slideshow=["slideshow/img1.jpg","slideshow/img2.jpg","slideshow/img3.jpg","slideshow/img4.jpg"]
+/*以下スライドショーの跡
 let num=-1;
 
 function slideshow_timer() {
@@ -11,4 +12,4 @@ function slideshow_timer() {
     document.getElementById("slideshow").src=slideshow[num];
 }
 
-setInterval(slideshow_timer,1000);
+setInterval(slideshow_timer,1000);*/
